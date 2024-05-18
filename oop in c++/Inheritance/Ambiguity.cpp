@@ -1,3 +1,12 @@
+
+/*Ambiguity resolution in inheritance in C++ refers to the process of resolving conflicts that can arise when a derived class inherits members(data, methods) from multiple base classes that have the same name.
+
+This conflict occurs when the derived class cannot determine which base class’s member it should use.
+
+I’ll provide an example of ambiguity resolution in the context of multiple inheritance.
+
+*/
+
 /*#include <iostream>
 using namespace std;
 class A
